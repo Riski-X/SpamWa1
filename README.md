@@ -1,5 +1,5 @@
 
-#JALANKAN PERINTAH
+#JALANKAN PERINTAH#
 
 $  pkg update && pkg upgrade
 
@@ -36,9 +36,4 @@ $  ls
 $  python SpamWa1.py
 
 
-===================≠=========================
-
-
-
-🥰 Yang kasih Bintang Sama Follow mudahan banyak Rezeki 😁
-
+Follow/Star 😁🥰⭐🙏
